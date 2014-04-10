@@ -1,0 +1,10 @@
+briefcase-common
+Debug
+Release
+SETest.v12.suo
+SETest.sdf
+SETest.opensdf
+ipch
+ManagedSyncEngine/Generated Files
+ManagedSyncEngine/Debug
+ManagedSyncEngine/Release
